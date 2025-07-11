@@ -6,7 +6,7 @@
 ### 👋 Hi there, I'm Victor Nyabuto
 
 🎓 Final-year Computer Science student at **Mount Kenya University**  
-🤖 Specializing in **Data Science** & **Machine Learning**  
+🤖 Specializing in **AI-Data Science** & **Machine Learning**  
 📈 Building tools that turn data into impact  
 💡 Always learning, always shipping
 
