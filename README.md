@@ -1,7 +1,9 @@
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=180&section=header&text=Victor%20Nyabuto&fontColor=fff&fontSize=40&fontAlignY=35" (https://vnyabuto.github.io/Victor-portfolio/) alt="Victor Nyabuto Banner"/>
+  <a href="https://vnyabuto.github.io/Victor-portfolio/" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=180&section=header&text=Victor%20Nyabuto&fontColor=fff&fontSize=40&fontAlignY=35" alt="Victor Nyabuto Banner"/>
+  </a>
 </p>
+
 
 ### 👋 Hi there, I'm Victor Nyabuto
 
