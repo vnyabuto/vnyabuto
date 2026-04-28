@@ -62,7 +62,7 @@
 
 - 📧 Email: [vnyabuto00@gmail.com](mailto:vnyabuto00@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/victor-nyabuto](https://linkedin.com/in/victor-nyabuto)  
-- 🌐 Portfolio: [github.com/vnyabuto/Victor-portfolio](https://github.com/vnyabuto/Victor-portfolio)  
+- 🌐 Portfolio: https://new-portfolio-psi-swart.vercel.app/
 - 💬 WhatsApp: [+254704076311](https://wa.me/254704076311)  
 - ☎️ Phone: +254704076311 / +254707651961  
 - 🧠 GitHub: [@vnyabuto](https://github.com/vnyabuto)
