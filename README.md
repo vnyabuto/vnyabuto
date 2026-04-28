@@ -9,7 +9,7 @@
 
 🎓 A computer scientist from **Mount Kenya University**  
 🤖 Specializing in **AI-Data Science** & **Machine Learning**  
-📈 Building toothathat turn data into impact  
+📈 Building tools that turn data into impact  
 💡 Always learning, always shipping
 
 ---
