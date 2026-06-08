@@ -7,7 +7,7 @@
 
 ### 👋 Hi there, I'm Victor Nyabuto
 
-🎓 A computer scientist from **Mount Kenya University**  
+🎓 A computer scientist
 🤖 Specializing in **AI-Data Science** & **Machine Learning**  
 📈 Building tools that turn data into impact  
 💡 Always learning, always shipping
